@@ -1,4 +1,4 @@
-#include <stdio.h>
+ #include <stdio.h>
 #include <string.h>
 
 struct Student {
@@ -54,5 +54,3 @@ int main() {
 
     return 0;
 }
-
-initial commit 
