@@ -1,4 +1,4 @@
-# Student Management System in C
+student_management_system.c
 
 ## Overview
 A console-based Student Management System developed in C to manage student records through a simple menu-driven interface.
